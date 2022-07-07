@@ -11,10 +11,16 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@ethersproject/shims": "^5.6.0",
     "@native-base/icons": "^0.0.11",
+    "@types/crypto-js": "^4.1.1",
+    "@types/react-native-get-random-values": "^1.8.0",
+    "crypto-js": "^4.1.1",
+    "ethers": "^5.6.9",
     "native-base": "^3.4.8",
     "react": "18.0.0",
     "react-native": "0.69.1",
+    "react-native-get-random-values": "^1.8.0",
     "react-native-safe-area-context": "^4.3.1",
     "react-native-svg": "^12.3.0",
     "react-native-vector-icons": "^9.2.0"
