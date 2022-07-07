@@ -2,7 +2,7 @@ import React from 'react';
 import './init';
 
 import { NativeBaseProvider, Text, Box, Icon } from 'native-base';
-import FontAwesome from 'react-native-vector-icons/FontAwesome';
+import FontAwesome from 'react-native-vector-icons/FontAwesome5';
 import { useLoadOrCreateWallet } from './hooks/useLoadOrCreateWallet';
 
 export default function App() {
